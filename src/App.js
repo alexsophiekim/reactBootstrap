@@ -27,12 +27,7 @@ function App() {
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action/3.4">Other Works</NavDropdown.Item>
             </NavDropdown>
-          </Nav>
-          <Nav>
-            <Nav.Link href="#deets">Contact</Nav.Link>
-            <Nav.Link eventKey={2} href="#memes">
-              Dank memes
-            </Nav.Link>
+            <Nav.Link href="#contact">Contact</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Navbar>
